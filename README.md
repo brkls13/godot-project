@@ -7,7 +7,6 @@ Version 1 of Cook!
 -Main menu
 
 
-<img width="415" height="173" alt="image" src="https://github.com/user-attachments/assets/fa2ba509-1db6-46a2-8d81-915909e77d9f" />
+<img width="349" height="122" alt="image" src="https://github.com/user-attachments/assets/25415f73-b0fb-4e79-88da-e439d6a29cae" />
 
-
-<img width="413" height="193" alt="image" src="https://github.com/user-attachments/assets/9011a031-5bd4-4729-ace7-884abb046235" />
+<img width="349" height="122" alt="image" src="https://github.com/user-attachments/assets/f30830e6-b204-4d0f-8a84-1d2fb96c7524" />
