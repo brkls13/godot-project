@@ -38,6 +38,7 @@ Expanded kitchen interactions
 Developed by Brkls13.
 
 Notes
+
 **To run the game, extract the 7z file. The executable and the .pck file must be in the same folder.**
 
 Please play and give me feedbacks!
