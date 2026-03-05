@@ -1,10 +1,45 @@
-Version 1 of Cook!
+Cook! — Version 1
 
-(At least every week i develop)
+Cook! is a cooking-themed game currently in early development.
+I work on the project regularly and aim to release updates at least once every week.
 
--Clickable oven,faucet and fridge.
+Version 1 Features
 
--Main menu
+Clickable Oven – Interact with the oven as part of the cooking process.
+
+Clickable Faucet – Use the faucet for water-related actions.
+
+Clickable Fridge – Open and interact with the fridge.
+
+Main Menu – Basic menu to start or manage the game.
+
+Development
+
+Cook! is actively being developed, with new features, improvements, and fixes planned in future versions.
+
+Updates are expected weekly.
+
+Current Status
+
+Version 1 focuses on building the basic interactive kitchen environment and core UI elements.
+
+Planned Features
+
+Cooking mechanics
+
+Ingredient system
+
+Recipes
+
+Sound effects
+
+Expanded kitchen interactions
+
+Developed by Brkls13.
+
+Notes
+
+This is an early version of the game. Expect changes, new features, and improvements in future updates.
 <img width="1143" height="644" alt="image" src="https://github.com/user-attachments/assets/32b82076-4983-457c-9b9f-3d6e37e5ef17" />
 
 
