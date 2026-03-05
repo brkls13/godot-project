@@ -23,7 +23,7 @@ Current Status
 
 Version 1 focuses on building the basic interactive kitchen environment and core UI elements.
 
-Planned Features
+Planned Features:
 
 Cooking mechanics
 
