@@ -38,7 +38,7 @@ Expanded kitchen interactions
 Developed by Brkls13.
 
 Notes
-
+Please play and give me feedbacks!
 This is an early version of the game. Expect changes, new features, and improvements in future updates.
 <img width="1143" height="644" alt="image" src="https://github.com/user-attachments/assets/32b82076-4983-457c-9b9f-3d6e37e5ef17" />
 
